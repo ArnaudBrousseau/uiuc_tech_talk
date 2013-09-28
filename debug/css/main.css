@@ -31,3 +31,8 @@ article .read-more {
     text-align: right;
     color: white;
 }
+
+/* Some CSS styles for our buggy buttons */
+button {
+    display: block;
+}
