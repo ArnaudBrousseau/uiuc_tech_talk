@@ -36,3 +36,8 @@ article .read-more {
 button {
     display: block;
 }
+
+/* Very minor CSS for test results */
+#results li { margin: 10px; padding: 4px 8px; }
+.error { background: #fbe3e4; color: #8a1f11; border-color: #fbc2c4; }
+.success { background: #e6efc2; color: #264409; border-color: #c6d880; }
