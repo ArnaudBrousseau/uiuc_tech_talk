@@ -1,6 +1,7 @@
 ## UIUC Tech Talk
 This repo contains some material for a talk at UIUC (University of Illinois).
 Topics covered: devtools, effective debugging and testing.
+Curious? Check out http://arnaudbrousseau.github.io/uiuc_tech_talk/
 
 ### Selenium Demo
 This repo contains a bit of setup to run Selenium tests.
