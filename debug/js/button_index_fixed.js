@@ -16,8 +16,8 @@ for (var i=0; i < buttons.length; i++) {
  * Another way to fix this (same idea):
  *
  *   for (var i=0; i < buttons.length; i++) {
- *       buttons[i].addeventlistener('click', (function(i) {
- *           textarea.innertext = i;
+ *       buttons[i].addEventListener('click', (function(i) {
+ *           textarea.innerText = i;
  *       })(i), false);
  *   }
  */
