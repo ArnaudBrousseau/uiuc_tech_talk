@@ -1,10 +1,10 @@
 ## UIUC Tech Talk
-This repo contains some material for a talk at UIUC (University of Illinois).
-Topics covered: devtools, effective debugging and testing.
-Curious? Check out http://arnaudbrousseau.github.io/uiuc_tech_talk/
+This repo contains some material for a talk at UIUC (University of Illinois).  
+*Topics covered: devtools, effective debugging and testing.*  
+**Check out http://arnaudbrousseau.github.io/uiuc_tech_talk/ for more info.**
 
 ### Selenium Demo
-This repo contains a bit of setup to run Selenium tests.
+This master branch contains a bit of setup to run Selenium tests.
 
 `cd selenium`
 `make server` should start the selenium server
